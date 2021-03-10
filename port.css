@@ -1,0 +1,103 @@
+hr{
+    border-style:none;
+    border-color: black;
+    border-top-style: dotted;
+    border-width: 5px;
+    width:5%;
+}
+a:link, a:visited  { 
+    color:orange;
+    text-decoration: none;
+    cursor: -moz-grab;
+  }
+  
+  a:link:active, a:visited:active ,a:hover{ 
+    color:yellow ;
+  }
+  .one {
+      background-color: 693c72;
+  }
+  .two {
+      background-color: c15050;
+      padding-top: 5%;
+  }
+  .three {
+      background-color: d97642;
+      padding-top: 2.5%;
+  }
+  .four {
+      background-color: d49d42;
+  }
+  body{
+    margin:0;
+    text-align: center;
+    background-color: d49d42;
+  }
+  .pro{
+     color: orange;
+  }
+  h4{
+      color: white;
+  }
+  .star:hover{
+      background-color:black;
+      cursor: -moz-grab;
+      height: 20px;
+      border-radius: 50%;
+  }
+  .text{
+      color: white;
+      font-size: large;
+  }
+  .prog{
+      width: 75%;
+      align-content: center;
+      border: 2px solid white;
+      text-align: center;
+  }
+  .sub,td{
+    height: 50px;
+  }
+  .pos{
+      padding-left: 20%;
+      padding-bottom: 5%;
+  }
+  .lin:hover{
+      background-color: black;
+      border-radius: 50%;
+  }
+  .btn {
+    background: #3d464d;
+    background-image: -webkit-linear-gradient(top, #3d464d, #6d777d);
+    background-image: -moz-linear-gradient(top, #3d464d, #6d777d);
+    background-image: -ms-linear-gradient(top, #3d464d, #6d777d);
+    background-image: -o-linear-gradient(top, #3d464d, #6d777d);
+    background-image: linear-gradient(to bottom, #3d464d, #6d777d);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .nav li{
+    display:inline
+}
+.nav a{
+    display:inline-block;
+    padding: 1%;
+    color:white;
+    text-decoration: none;
+    background-color:  693c72;
+}
+.nav a:hover{
+    background-color:orange;
+}
+.main-nav li{
+    padding:5%;
+}
+
+  
+  
